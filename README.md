@@ -8,4 +8,4 @@
 
 両ページは共通の `help.css` を使用します。公開元はリポジトリのルートを想定しています。
 
-問い合わせ先は準備中です。App Store Connect に登録する前に、実際に連絡できる窓口を掲載してください。
+公式問い合わせ先は [rienobu2004@gmail.com](mailto:rienobu2004@gmail.com) です。メールに記載する内容は、[サポートページのお問い合わせ欄](support.html#contact)をご確認ください。
